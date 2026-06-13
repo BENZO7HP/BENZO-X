@@ -1,1 +1,1 @@
-# BENZO-X Core Package
+BENZO-X Core Package
